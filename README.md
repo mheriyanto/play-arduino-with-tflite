@@ -18,3 +18,4 @@ Repository for playing the computer vision apps on Arduino Uno. Tech stack: C++ 
 ###  Tested Software
 + TensorFlow Lite C++ API
 + Arduino IDE 1.8.13
++ Arduino programming language
